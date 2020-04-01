@@ -65,4 +65,10 @@ join products b
 on b.products_id = a.products_id
 where orders_id = 1
 
+select * from orders 
+where user_id = 1
+
+select count(*) from orders
+where user_id = 1
+
 

@@ -195,4 +195,4 @@
     FROM practice_delete
     WHERE value = '150'
 
-*GO TO SQL FILE
+*********GO TO ECOMMERCE.SQL FILE
